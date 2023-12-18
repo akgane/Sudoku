@@ -1,0 +1,7 @@
+﻿  Utility.cpp
+E:\SudokuTLI4\Sudoku\Utility.h(13,1): warning C4005: BACKGROUND_GREEN: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi2.h(40,1): message : см. предыдущее определение "BACKGROUND_GREEN"
+E:\SudokuTLI4\Sudoku\Utility.cpp(113): warning C4715: GetPlayerMove: значение возвращается не при всех путях выполнения
+E:\SudokuTLI4\Sudoku\Utility.cpp(132): warning C4715: GetPlayerMove: значение возвращается не при всех путях выполнения
+E:\SudokuTLI4\Sudoku\Utility.cpp(169): warning C4715: CheckMovePosibility: значение возвращается не при всех путях выполнения
+  Sudoku.vcxproj -> E:\SudokuTLI4\Sudoku\x64\Debug\Sudoku.exe
